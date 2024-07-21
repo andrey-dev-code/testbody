@@ -1,10 +1,12 @@
-{
-  "address": "text1,
-  "token_balance": "10",
-  "logo": "https://cache.tonapi.io/imgproxy/YEdIzQD8nKLe_edXX8d5SmbZyCRN5pZBuTN_JXcQ_jg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1SZGh3UFBRNVcxdGdnUUZzRnRRR0w1OVBqY0ZaNDMyZ1plZVh2Y2Z6anJMcA.webp"
-},
-{
-  "address": "text2,
-  "token_balance": "0",
-  "logo": "https://cache.tonapi.io/imgproxy/w7LqxyBe87HT0o4KKQD2xkVNv466Jss2ET5OXpmyJKY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Wd2VEM3JYNkdheWdDR0xMQmVUSkJZM2VWVENFQldiYktONTlYeFJ4dEx0MQ.webp"
-}
+[
+  {
+    "address": "text1",
+    "token_balance": "10",
+    "logo": "https://cache.tonapi.io/imgproxy/YEdIzQD8nKLe_edXX8d5SmbZyCRN5pZBuTN_JXcQ_jg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1SZGh3UFBRNVcxdGdnUUZzRnRRR0w1OVBqY0ZaNDMyZ1plZVh2Y2Z6anJMcA.webp"
+  },
+  {
+    "address": "text2",
+    "token_balance": "0",
+    "logo": "https://cache.tonapi.io/imgproxy/w7LqxyBe87HT0o4KKQD2xkVNv466Jss2ET5OXpmyJKY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Wd2VEM3JYNkdheWdDR0xMQmVUSkJZM2VWVENFQldiYktONTlYeFJ4dEx0MQ.webp"
+  }
+]
